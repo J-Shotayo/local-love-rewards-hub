@@ -39,7 +39,7 @@ This project is built with:
 ## Installation
 
 ```bash
-git clone https://github.com/your-repo/local-love-rewards.git
-cd local-love-rewards
+git clone https://github.com/your-repo/local-love-rewards-hub.git
+cd local-love-rewards-hub
 npm install
 npm start

@@ -206,7 +206,7 @@ const Index = () => {
             <h2 className="text-2xl font-bold">Local Loyalty</h2>
           </div>
           <p className="text-gray-400 mb-4">Simple loyalty rewards for local businesses</p>
-          <p className="text-sm text-gray-500">© 2024 Local Loyalty. Built with ❤️ for local businesses.</p>
+          <p className="text-sm text-gray-500">© 2025 Local Loyalty.</p>
         </div>
       </footer>
     </div>

@@ -1,10 +1,9 @@
 # Local Love Rewards Hub
 
-[![Website](https://img.shields.io/website-up-down-green-red/https/local-love-rewards-hub.lovable.app.svg)](https://local-love-rewards-hub.lovable.app/)
-
 A loyalty rewards platform connecting local businesses with their communities.
 
 🌍 **Live Site**: [https://local-love-rewards-hub.lovable.app/](https://local-love-rewards-hub.lovable.app/)
+    **PLEASE NOTE**: ALL INTENDED FUNCTIONALITIES HAVE NOT BEEN FULLY IMPLEMENTED
 
 ## Features
 
